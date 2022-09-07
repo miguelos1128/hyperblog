@@ -8,3 +8,7 @@ Hoy hablaremos de su historia.
 en camara parece alto pero en verdad no es tan alto
 
 Hot es el CEO de platzi
+ hoy hableremos de su vida
+ 
+
+ lo unico que quiero es crear cambios en el archivo historia.txt
