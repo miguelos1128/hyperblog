@@ -1,1 +1,5 @@
 este es un ejemplo de como fucnian git rm y reset
+este es un cambio en historia de viuda
+
+
+jajajja
