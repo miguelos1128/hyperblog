@@ -10,5 +10,6 @@ Todos los coma- ndos de Git .
 - Trucos muy locos del profesor.
 - Las personalidades multiples de Freddy.
 - Creado por l increible Miguel Angel Osornio de la mano de Platzi
+-Incluye ejemplos en Windows, Linux y Mac
 Y como amable recordatorio. **Este readme.md es un chiste**. Diseñado para el ejemplo si llegas acá NO TE LO TOME ENSERIO y mejor ve [a ver el curso.](http://https://platzi.com/cursos/git-github/ "a ver el curso.")
 https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fbrasile%25C3%25B1o&psig=AOvVaw2ryn6hdLA1EItHJrmTqdJf&ust=1664750479581000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCLDrjvqMwPoCFQAAAAAdAAAAABAD
